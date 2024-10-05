@@ -177,9 +177,9 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 - [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
 
-- [TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
+- [TryHackMe | Networking](https://tryhackme.com/room/bpnetworking) - Private Room
 
-- [TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan)
+- [TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan) - Need Subcription 
 
 - [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
 
